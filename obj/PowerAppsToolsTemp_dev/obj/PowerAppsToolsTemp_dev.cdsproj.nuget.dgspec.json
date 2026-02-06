@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\obj\\PowerAppsToolsTemp_dev\\PowerAppsToolsTemp_dev.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\length-converter.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\length-converter.pcfproj",
+        "projectName": "length-converter",
+        "projectPath": "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\length-converter.pcfproj",
+        "packagesPath": "C:\\Users\\Abhishek Vankar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abhishek Vankar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\obj\\PowerAppsToolsTemp_dev\\PowerAppsToolsTemp_dev.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\obj\\PowerAppsToolsTemp_dev\\PowerAppsToolsTemp_dev.cdsproj",
+        "projectName": "PowerAppsToolsTemp_dev",
+        "projectPath": "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\obj\\PowerAppsToolsTemp_dev\\PowerAppsToolsTemp_dev.cdsproj",
+        "packagesPath": "C:\\Users\\Abhishek Vankar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\obj\\PowerAppsToolsTemp_dev\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abhishek Vankar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\length-converter.pcfproj": {
+                "projectPath": "C:\\Users\\Abhishek Vankar\\Documents\\Projects\\pcf-controls\\length-converter\\length-converter.pcfproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

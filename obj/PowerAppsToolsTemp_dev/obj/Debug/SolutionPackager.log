@@ -1,0 +1,20 @@
+2026-02-06 13:03:30.998 - Info	
+Packing C:\Users\Abhishek Vankar\Documents\Projects\pcf-controls\length-converter\obj\PowerAppsToolsTemp_dev\obj\Debug\Metadata to bin\Debug\PowerAppsToolsTemp_dev.zip
+
+2026-02-06 13:03:31.023 - Info	Processing Component: Entities
+2026-02-06 13:03:31.028 - Info	Processing Component: Roles
+2026-02-06 13:03:31.031 - Info	Processing Component: Workflows
+2026-02-06 13:03:31.032 - Info	Processing Component: FieldSecurityProfiles
+2026-02-06 13:03:31.033 - Info	Processing Component: Templates
+2026-02-06 13:03:31.035 - Info	Processing Component: EntityMaps
+2026-02-06 13:03:31.035 - Info	Processing Component: EntityRelationships
+2026-02-06 13:03:31.039 - Info	Processing Component: OrganizationSettings
+2026-02-06 13:03:31.041 - Info	Processing Component: optionsets
+2026-02-06 13:03:31.042 - Info	Processing Component: CustomControls
+2026-02-06 13:03:31.056 - Info	 - LengthConverterNamespace.LengthConverter
+2026-02-06 13:03:31.063 - Info	Processing Component: SolutionPluginAssemblies
+2026-02-06 13:03:31.064 - Info	Processing Component: EntityDataProviders
+2026-02-06 13:03:31.072 - Info	Processing Sharded Component Files
+2026-02-06 13:03:31.178 - Info	
+Unmanaged Pack complete.
+

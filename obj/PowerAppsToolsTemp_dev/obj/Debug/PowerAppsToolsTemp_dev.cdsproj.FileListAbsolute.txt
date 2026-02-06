@@ -1,0 +1,2 @@
+C:\Users\Abhishek Vankar\Documents\Projects\pcf-controls\length-converter\obj\PowerAppsToolsTemp_dev\obj\Debug\PowerAppsToolsTemp_dev.cdsproj.AssemblyReference.cache
+C:\Users\Abhishek Vankar\Documents\Projects\pcf-controls\length-converter\obj\PowerAppsToolsTemp_dev\obj\Debug\PowerAppsToolsTemp_dev.cdsproj.CoreCompileInputs.cache

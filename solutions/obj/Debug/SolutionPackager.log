@@ -1,0 +1,20 @@
+2026-02-06 12:45:42.966 - Info	
+Packing C:\Users\Abhishek Vankar\Documents\Projects\pcf-controls\length-converter\solutions\obj\Debug\Metadata to bin\Debug\solutions.zip
+
+2026-02-06 12:45:42.980 - Info	Processing Component: Entities
+2026-02-06 12:45:42.982 - Info	Processing Component: Roles
+2026-02-06 12:45:42.983 - Info	Processing Component: Workflows
+2026-02-06 12:45:42.984 - Info	Processing Component: FieldSecurityProfiles
+2026-02-06 12:45:42.984 - Info	Processing Component: Templates
+2026-02-06 12:45:42.984 - Info	Processing Component: EntityMaps
+2026-02-06 12:45:42.984 - Info	Processing Component: EntityRelationships
+2026-02-06 12:45:42.987 - Info	Processing Component: OrganizationSettings
+2026-02-06 12:45:42.987 - Info	Processing Component: optionsets
+2026-02-06 12:45:42.988 - Info	Processing Component: CustomControls
+2026-02-06 12:45:42.995 - Info	 - LengthConverterNamespace.LengthConverter
+2026-02-06 12:45:42.999 - Info	Processing Component: SolutionPluginAssemblies
+2026-02-06 12:45:42.999 - Info	Processing Component: EntityDataProviders
+2026-02-06 12:45:43.003 - Info	Processing Sharded Component Files
+2026-02-06 12:45:43.059 - Info	
+Unmanaged Pack complete.
+
